@@ -215,12 +215,12 @@ a {
     border: .1px solid #1f242d;
 }
 .home-img .img-box .img-item img{
-    top: 30px; ;
+    /* top: 30px ; */
     position: absolute;
     display: block;
     width: 85%;
     object-fit: cover;
-    mix-blend-mode:lighten;
+    mix-blend-mode:soft-light;
 }
 
 .bars-animation{
